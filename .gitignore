@@ -16,7 +16,7 @@ bin/
 !**/src/test/**/bin/
 
 ### Idea ###
-.idea
+.idea/
 
 ### NetBeans ###
 /nbproject/private/
